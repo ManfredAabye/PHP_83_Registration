@@ -1,5 +1,5 @@
 # PHP_83_Registration
-Anleitung zur Konfiguration des Anmeldesystems
+Anleitung zur Konfiguration des flexiblen Anmeldesystems.
 
 Dieses Anmeldesystem unterstützt zwei verschiedene Speichermethoden und bietet Optionen zur Aktivierung/Deaktivierung der Registrierung und Anmeldung. Die Konfiguration erfolgt über die Datei `config.php` oder direkt im Skript, falls keine `config.php` vorhanden ist.
 
